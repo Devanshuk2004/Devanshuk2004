@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Devanshu Katiyar</h1>
-<h3 align="center">Currently Improving my skills</h3>
+<h1 align="center">Hi 👋, I'm Devanshu Katiyar, a Fourth Year student pursuing Btech  in Artificial Intelligence and Data Science at Vishwakarma University </h1>
+<h3 align="center">Im currrently learning tensorflow and Computer Vision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshukatiyar&label=Profile%20views&color=0e75b6&style=flat" alt="devanshukatiyar" /> </p>
 
-- 💬 Ask me about **ML**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **devanshukatiyar950@gmail.com**
 
